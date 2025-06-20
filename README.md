@@ -11,8 +11,7 @@ This project uses Linear Programming (LP) to optimize Euroleague basketball team
 
 ## How to Use Locally:
 - Clone this repository and install the required dependencies.
-- Run the application using Streamlit:
-**streamlit run lp_euroleague_project.py**
+- Run the application using Streamlit ```streamlit run lp_euroleague_project.py```
 - Access the app in your browser and input your preferences to generate the optimal team.
 
 ## Try the App Online: 
